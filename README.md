@@ -1,109 +1,155 @@
-🚀 CODSOFT Internship Java Projects
+# 🚀 CODSOFT Internship Java Projects
 
-Welcome to my CODSOFT Internship Repository!
-This repository contains all the tasks completed during my internship with CodSoft, focusing on Java development and problem-solving.
+Welcome to my **CODSOFT Internship Repository**!
+This repository contains all the tasks completed during my internship, focusing on **Java development, problem-solving, and real-world applications**.
 
-📌 About CodSoft
+---
 
-CodSoft is an IT services and consulting organization that provides hands-on internship opportunities to help students gain real-world experience in software development.
+## 📌 About CodSoft
 
-🗂️ Repository Structure
+CodSoft is an IT services and consulting organization that provides hands-on internship opportunities to help students gain practical experience in software development.
 
+---
+
+## 🗂️ Repository Structure
+
+```
 CODSOFT/
-
+│
 ├── Task1/
-
 ├── Task2/
-
 ├── Task3/
-
 ├── Task4/
-
 └── Task5/
+```
 
-📖 Tasks Overview
+---
 
-🔹 Task 1: Number Guessing Game
+## 📖 Tasks Overview
 
-Overview
+### 🔹 Task 1: Number Guessing Game
 
-A fun, interactive number guessing game where the system generates a random number and challenges the user to guess it within the fewest attempts possible.
+**Overview:**
+A fun and interactive game where the system generates a random number, and the user must guess it in the fewest attempts.
 
-Features:
+**Features:**
 
-• Generates a random number
+* Random number generation
+* User input handling
+* Hints: *Too High / Too Low / Correct*
+* Score tracking
 
-• User guesses the number
+---
 
-• Provides hints - Too High, Too Low, or Correct!
+### 🔹 Task 2: Student Grade Calculator
 
-• Tracks score across attempts
+**Overview:**
+A utility tool that calculates total marks, average percentage, and assigns a grade.
 
-🔹 Task 2: Student Grade Calculator
+**Features:**
 
-Overview
-A utility tool that takes subject marks as input, calculates the total and average percentage, and assigns a corresponding letter grade.
+* Accepts subject marks
+* Calculates total and average
+* Assigns grades based on percentage
+* Displays final result
 
-Features:
+---
 
-• Takes marks as input
+### 🔹 Task 3: ATM Interface
 
-• Calculates total and average
+**Overview:**
+A simulation of basic ATM operations using Java.
 
-• Assigns grades based on percentage
+**Features:**
 
-• Displays final result
+* Withdraw money
+* Deposit money
+* Check balance
+* Input validation
+* Menu-driven interface
 
-🔹 Task 3: ATM Interface
+---
 
-Simulates ATM operations
+### 🔹 Task 4: Currency Converter
 
-Features:
+**Overview:**
+A currency converter that converts amounts between currencies using exchange rates.
 
-• Withdraw money
+**Features:**
 
-• Deposit money
+* Supports multiple currencies
+* API integration *(if implemented)*
+* Error handling
+* User-friendly interface
 
-• Check balance
+---
 
-• Includes input validation
+### 🔹 Task 5: Student Management System
 
-🔹 Task 4: Currency Converter
+**Overview:**
+A system to manage student records using CRUD operations.
 
-Overview
+**Features:**
 
-A real-time currency converter that fetches live exchange rates from an external API and converts a user-specified amount between any two currencies.
+* Add student details
+* Update records
+* Delete records
+* View student information
+* Demonstrates OOP concepts
 
-• Converts one currency to another
-• Uses exchange rates (API/manual)
-• Handles user input and errors
+---
 
-🔹 Task 5: Student Management System
+## 🛠️ Technologies Used
 
-• Add, update, delete student records
-• Display student details
-• Demonstrates OOP concepts
+* Java ☕
+* Object-Oriented Programming (OOP)
+* APIs *(if used)*
 
-🛠️ Technologies Used
+---
 
-• Java ☕
+## ▶️ How to Run the Projects
 
-• Object-Oriented Programming (OOP)
+### 1️⃣ Clone the Repository
 
-• APIs (if used)
-
-
-▶️ How to Run the Projects
-
-Clone the repository:
-
+```
 git clone https://github.com/Artigoyal-maker/CODSOFT.git
+```
 
-Open in IDE:
+### 2️⃣ Open in IDE
 
-IntelliJ IDEA / Eclipse / VS Code
+* IntelliJ IDEA
+* Eclipse
+* VS Code
 
-Compile and run the Java files:
+### 3️⃣ Compile and Run
 
+```
 javac FileName.java
 java FileName
+```
+
+---
+
+## 🌟 Key Highlights
+
+* Clean and structured code
+* Real-world problem-solving
+* Beginner-friendly implementations
+* Hands-on Java practice
+
+---
+
+## 🙌 Acknowledgment
+
+I would like to thank **CodSoft** for providing this opportunity to enhance my programming skills and gain practical experience.
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me for any queries or collaboration!
+
+---
+
+⭐ **If you like this repository, consider giving it a star!**
+
